@@ -13,7 +13,7 @@ class App extends Component {
     state = {
         list: [
             {id: 5212161, label: 'Drink Coffee', important: false, done: false},
-            {id: 5216362, label: 'Create your first own task :)', important: true, done: false},
+            {id: 5216362, label: 'Create my first own task :)', important: true, done: false},
         ],
         search: '',
         filterType: 1,
