@@ -1,0 +1,22 @@
+.todo-list-item {
+    &__text {
+        cursor: pointer;
+    }
+
+    &__control {
+        width: 85px;
+    }
+
+    .btn {
+        width: 40px;
+    }
+
+    .important {
+        color: #2a2aef;
+        font-weight: bold;
+    }
+
+    .done {
+        text-decoration: line-through;
+    }
+}
